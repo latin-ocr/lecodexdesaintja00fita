@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lecodexdesaintja00fita_0086.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1594 221 1623 255">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1594 221 1623 255">
+     <span class='ocr_line' id='line_1_1' title="bbox 1594 230 1610 255; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 1594 230 1610 255; x_wconf 63' lang='grc' dir='ltr'>,ἡ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1603 221 1623 254; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 1603 221 1623 254; x_wconf 54' lang='grc'>,1,-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1301 16 1321 61">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1301 16 1321 61">
+     <span class='ocr_line' id='line_1_3' title="bbox 1301 16 1321 61; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 1301 33 1321 61; x_wconf 48' lang='lat' dir='ltr'>‚fi-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1303 16 1319 26; x_wconf 40' lang='grc' dir='ltr'>Ἰ..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1444 13 1473 63">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1444 13 1474 63">
+     <span class='ocr_line' id='line_1_4' title="bbox 1444 13 1473 63; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 1444 30 1474 63; x_wconf 45' lang='grc' dir='ltr'>»ᾗ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1451 13 1468 27; x_wconf 53' lang='lat' dir='ltr'>a„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1724 9 2912 4165">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1724 9 2912 4165">
+     <span class='ocr_line' id='line_1_5' title="bbox 1724 9 2912 4165; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 1724 9 2912 4165; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
